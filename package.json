@@ -1,0 +1,28 @@
+{
+  "name": "goit-hw-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "npdemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/b3dyk/goit-hw-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/b3dyk/goit-hw-1/issues"
+  },
+  "homepage": "https://github.com/b3dyk/goit-hw-1#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  },
+  "dependencies": {
+    "uuid": "^9.0.0",
+    "yargs": "^17.7.1"
+  }
+}
